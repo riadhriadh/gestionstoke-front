@@ -1,0 +1,15 @@
+.container {
+    padding-top: 7%;
+    padding-bottom: 3%;
+    border: 12px solid  peru;
+    border-radius: 10px;
+    
+
+}
+.form-check{
+    padding: 10px;
+}
+.register{
+    text-align: right;
+    margin: 6px;
+    }
